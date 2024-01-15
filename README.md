@@ -1,6 +1,6 @@
 # Conway's Game of Life in goopylib
 
-A simple recreation of the classic brick breaker game using goopylib.
+Conway's Game of Life rendered using goopylib.
 
 ![assets/gif.gif](assets/gif.gif)
 
